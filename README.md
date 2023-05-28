@@ -1,7 +1,4 @@
-# MEDBUDDY
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-![MIT](https://img.shields.io/github/license/Aman-Codes/MedBuddy?color=blue)
-
+# AASARA
 
 It is a website which connects doctors, patients, and services like ambulance provider. <br/>
 The patient can choose a date and doctor to consult, the system will automatically generate appointment time based on the doctor's schedule. The patient can also view his current and past appointments and book ambulance service. <br/>
@@ -9,7 +6,7 @@ The doctor on the other hand can accept/reject the appointment, view all his cur
 
 ## Visit Online
 
-This website is hosted at [https://medbuddy.onrender.com/](https://medbuddy.onrender.com/)
+This website is hosted at [https://aasara.glitch.me ](https://aasara.glitch.me )
 
 ## Getting Started
 
@@ -27,7 +24,7 @@ Your machine should have Npm(or Yarn), Node.js, and MongoDB installed to use it 
    Go to the forked repo and clone it :busts_in_silhouette: to your local machine:
 
 ```sh
-git clone https://github.com/Your_Username/MedBuddy.git
+git clone https://github.com/Your_Username/AASARA1.git
 ```
 
 This will make a copy of the code to your local machine.
@@ -35,7 +32,7 @@ This will make a copy of the code to your local machine.
 2. Now move to the `MedBuddy` directory.
 
 ```sh
-cd MedBuddy
+cd AASARA1
 ```
 
 3. Now check the remote of your local code by:
@@ -47,23 +44,23 @@ git remote -v
 The response should look like:
 
 ```sh
-origin	https://github.com/Your_Username/MedBuddy.git (fetch)
-origin	https://github.com/Your_Username/MedBuddy.git (push)
+origin	https://github.com/Your_Username/AASARA1.git (fetch)
+origin	https://github.com/Your_Username/AASARA1.git (push)
 ```
 
 To add upstream to remote, run:
 
 ```sh
-git remote add upstream https://github.com/Aman-Codes/MedBuddy.git
+git remote add upstream https://github.com/shivamt2025/AASARA1.git
 ```
 
 Again run `git remote -v`, the response should look like:
 
 ```sh
-origin	https://github.com/Your_Username/MedBuddy.git (fetch)
-origin	https://github.com/Your_Username/MedBuddy.git (push)
-upstream	https://github.com/Aman-Codes/MedBuddy (fetch)
-upstream	https://github.com/Aman-Codes/MedBuddy (push)
+origin	https://github.com/Your_Username/AASARA1.git (fetch)
+origin	https://github.com/Your_Username/AASARA1.git (push)
+upstream	https://github.com/shivamt2025/AASARA1 (fetch)
+upstream	https://github.com/shivamt2025/AASARA1 (push)
 ```
 
 4. Once the remote is set, install all the necessary dependencies by the following command:
@@ -79,12 +76,4 @@ Run the below command to start the server:
 npm run dev
 ```
 Go to: [http://localhost:4000](http://localhost:4000)
-
-### Contributing
-
-We really like contributions in several forms, see [CONTRIBUTING.md](https://github.com/Aman-Codes/MedBuddy/blob/master/docs/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/Aman-Codes/MedBuddy/blob/master/docs/CODE_OF_CONDUCT.md)
-
-### User Documentation
-
-For complete user documentation refer [UserDocumentation.md](https://github.com/Aman-Codes/MedBuddy/blob/master/docs/UserDocumentation.md)
 
