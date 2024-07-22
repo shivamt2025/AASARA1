@@ -29,7 +29,7 @@ git clone https://github.com/Your_Username/AASARA1.git
 
 This will make a copy of the code to your local machine.
 
-2. Now move to the `MedBuddy` directory.
+2. Now move to the `Aasara1` directory.
 
 ```sh
 cd AASARA1
